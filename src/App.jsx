@@ -114,7 +114,7 @@ const [typedText, setTypedText] = useState("");
             style={styles.primaryBtn}
             onClick={() =>
               window.open(
-                "https://github.com/divyarajsinh1604/grocery-app/releases/download/v1.0.0/app.exe"
+                "https://github.com/divyarajsinh1604/grocery-app/releases/download/v1.0.0/app.zip"
               )
             }
           >
